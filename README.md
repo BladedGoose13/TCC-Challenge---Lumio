@@ -1,121 +1,122 @@
-# LUMIO: Quantitative ESG & Impact Analytics Framework
+# LUMIO: Framework Cuantitativo de ESG y Analítica de Impacto
 
 ![License](https://img.shields.io/badge/license-CC_BY--NC--ND_4.0-red)
 ![Status](https://img.shields.io/badge/status-experimental-orange)
 ![Focus](https://img.shields.io/badge/focus-ESG%20Analytics-green)
 ![Methods](https://img.shields.io/badge/methods-Monte%20Carlo%20%7C%20Optimization-blue)
 
-**Strategic quantitative framework developed for the "Consult for a Cause 2026" challenge organized by Tec Consulting Club in collaboration with Xignux and Strategy& (PwC Network).** 
+**Framework cuantitativo estratégico desarrollado para el reto "Consult for a Cause 2026" organizado por Tec Consulting Club en colaboración con Xignux y Strategy& (PwC Network).**
 
 ---
 
-## Overview
+## Descripción General
 
-LUMIO is a multidisciplinary decision-support framework designed to evaluate, compare, and prioritize social and sustainability initiatives operating under heterogeneous impact conditions.
+LUMIO es un framework multidisciplinario de soporte para la toma de decisiones diseñado para evaluar, comparar y priorizar iniciativas sociales y de sostenibilidad que operan bajo condiciones de impacto heterogéneas.
 
-The project addresses a core strategic challenge frequently faced by ESG and corporate responsibility divisions:
+El proyecto aborda un reto estratégico común en áreas ESG y de responsabilidad social corporativa:
 
-> How can organizations compare projects that generate fundamentally different forms of value across social, environmental, infrastructure, and financial dimensions?
+> ¿Cómo pueden las organizaciones comparar proyectos que generan formas de valor fundamentalmente distintas en dimensiones sociales, ambientales, de infraestructura y financieras?
 
-The framework was designed to support:
-- portfolio-level ESG analysis,
-- strategic resource allocation,
-- uncertainty-aware decision-making,
-- and defensible impact evaluation under limited or imperfect information.
+El framework fue diseñado para apoyar:
+- análisis ESG a nivel portafolio,
+- asignación estratégica de recursos,
+- toma de decisiones bajo incertidumbre,
+- y evaluación de impacto defendible bajo información limitada o imperfecta.
 
 ---
 
-## Strategic Context
+## Contexto Estratégico
 
-Organizations managing large sustainability portfolios often face:
-- inconsistent project metrics,
-- unequal data quality,
-- long-term vs short-term impact asymmetries,
-- attribution complexity,
-- and limited comparability between initiatives.
+Las organizaciones que gestionan grandes portafolios de sostenibilidad frecuentemente enfrentan:
+- métricas inconsistentes entre proyectos,
+- calidad desigual de datos,
+- asimetrías entre impactos de corto y largo plazo,
+- complejidad de atribución,
+- y comparabilidad limitada entre iniciativas.
 
-Traditional evaluation approaches frequently struggle to integrate:
-- operational efficiency,
-- stakeholder participation,
-- financial sustainability,
-- uncertainty,
-- and multidimensional impact into a unified analytical structure.
+Los enfoques tradicionales de evaluación suelen tener dificultades para integrar:
+- eficiencia operativa,
+- participación de stakeholders,
+- sostenibilidad financiera,
+- incertidumbre,
+- y múltiples dimensiones de impacto dentro de una misma estructura analítica.
 
-LUMIO proposes a structured quantitative approach for addressing these limitations through integrated modeling and probabilistic analysis: 
+LUMIO propone un enfoque cuantitativo estructurado para abordar estas limitaciones mediante modelado integrado y análisis probabilístico:
+
 [Know-How.pdf](./SROI-LUMIO/Know-How.pdf)
 
 ---
 
-## Core Methodologies
+## Metodologías Principales
 
-### Quantitative Modeling
-- Multi-criteria impact scoring
-- Weighted portfolio evaluation
-- Nonlinear bounded transformations
-- Resource allocation optimization
+### Modelado Cuantitativo
+- Scoring multicriterio de impacto
+- Evaluación ponderada de portafolio
+- Transformaciones no lineales acotadas
+- Optimización de asignación de recursos
 
-### Probabilistic & Risk Analysis
-- Monte Carlo simulation
-- Scenario analysis
-- Confidence interval estimation
-- Downside risk estimation
-- Sensitivity analysis
+### Análisis Probabilístico y de Riesgo
+- Simulación Monte Carlo
+- Análisis de escenarios
+- Estimación de intervalos de confianza
+- Estimación de riesgo a la baja
+- Análisis de sensibilidad
 
-### Decision & Operations Research
-- Knapsack optimization
-- Portfolio prioritization
-- Constraint-aware allocation
-- Comparative scoring systems
+### Investigación de Operaciones y Decisión
+- Optimización tipo Knapsack
+- Priorización de proyectos
+- Asignación bajo restricciones
+- Sistemas comparativos de scoring
 
-### ESG & Sustainability Analytics
-- Social impact indicators
-- Environmental metrics
-- Infrastructure impact assessment
-- Stakeholder-oriented evaluation
-
----
-
-## Monte Carlo Simulation
-
-A central component of the framework is the use of **Monte Carlo methods** for uncertainty quantification.
-
-Instead of assuming deterministic outcomes, the model simulates thousands of possible scenarios by introducing variability into:
-- operational costs,
-- participation metrics,
-- environmental outcomes,
-- financial performance,
-- and impact indicators.
-
-This allows the framework to estimate:
-- expected performance,
-- confidence intervals,
-- downside exposure,
-- and probability of underperformance.
-
-The objective is not only to estimate value generation, but to evaluate:
-- robustness,
-- reliability,
-- and risk-adjusted strategic viability.
+### Analítica ESG y Sostenibilidad
+- Indicadores de impacto social
+- Métricas ambientales
+- Evaluación de infraestructura comunitaria
+- Evaluación orientada a stakeholders
 
 ---
 
-## Technical Scope
+## Simulación Monte Carlo
 
-The repository currently includes:
-- conceptual framework documentation,
-- mathematical formulation,
-- methodological assumptions,
-- uncertainty modeling structure,
-- and strategic evaluation logic.
+Uno de los componentes centrales del framework es el uso de métodos de **Monte Carlo** para cuantificación de incertidumbre.
 
-The project is positioned as:
-- an exploratory analytical framework,
-- an educational research initiative,
-- and a proof-of-concept for quantitative ESG evaluation systems.
+En lugar de asumir resultados deterministas, el modelo simula miles de escenarios posibles introduciendo variabilidad en:
+- costos operativos,
+- métricas de participación,
+- resultados ambientales,
+- desempeño financiero,
+- e indicadores de impacto.
+
+Esto permite estimar:
+- desempeño esperado,
+- intervalos de confianza,
+- exposición a riesgo,
+- y probabilidad de bajo desempeño.
+
+El objetivo no es únicamente estimar generación de valor, sino evaluar:
+- robustez,
+- confiabilidad,
+- y viabilidad estratégica ajustada por riesgo.
 
 ---
 
-## Repository Structure
+## Alcance Técnico
+
+Actualmente el repositorio incluye:
+- documentación conceptual del framework,
+- formulación matemática,
+- supuestos metodológicos,
+- estructura de modelado bajo incertidumbre,
+- y lógica estratégica de evaluación.
+
+El proyecto está posicionado como:
+- un framework analítico exploratorio,
+- una iniciativa educativa y de investigación,
+- y una prueba de concepto para sistemas cuantitativos de evaluación ESG.
+
+---
+
+## Estructura del Repositorio
 
 ```plaintext
 LICENSE
