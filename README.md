@@ -1,77 +1,141 @@
-# LUMIO — Consult for a Cause 2026
+# LUMIO — Quantitative ESG & Impact Analytics Framework
 
-**Proyecto presentado al reto "Consult for a Cause" — Tec Consulting Club × Xignux**
+![License](https://img.shields.io/badge/license-CC_BY--NC--ND_4.0-red)
+![Status](https://img.shields.io/badge/status-experimental-orange)
+![Focus](https://img.shields.io/badge/focus-ESG%20Analytics-green)
+![Methods](https://img.shields.io/badge/methods-Monte%20Carlo%20%7C%20Optimization-blue)
 
----
-
-## 📋 Sobre el Proyecto
-
-**LUMIO** es la solución estratégica desarrollada por nuestro equipo para resolver el reto planteado por **Xignux**: 
-
-> **¿Cómo medir y comparar de forma objetiva el desempeño de distintos proyectos de impacto social cuando cada uno genera valor de manera diferente?**
-
-El objetivo de LUMIO es proporcionar un **marco de evaluación integral y comparable** que permita a Xignux priorizar, medir y asignar recursos de forma más efectiva entre sus iniciativas de sostenibilidad y responsabilidad social.
+**Strategic quantitative framework developed for the "Consult for a Cause 2026" challenge organized by Tec Consulting Club in collaboration with Xignux and Strategy& (PwC Network).** :contentReference[oaicite:0]{index=0}
 
 ---
 
-## 🎯 Objetivo del Reto
+## Overview
 
-Xignux busca una metodología robusta para evaluar proyectos de impacto social que:
-- No dependa exclusivamente de monetización de beneficios
-- Permita comparar iniciativas muy distintas (educación, reforestación, energía limpia, apoyo comunitario, etc.)
-- Incluya incertidumbre y riesgo
-- Facilite la toma de decisiones de asignación presupuestal
+LUMIO is a multidisciplinary decision-support framework designed to evaluate, compare, and prioritize social and sustainability initiatives operating under heterogeneous impact conditions.
 
----
+The project addresses a core strategic challenge frequently faced by ESG and corporate responsibility divisions:
 
-## 📦 Entregables del Proyecto
+> How can organizations compare projects that generate fundamentally different forms of value across social, environmental, infrastructure, and financial dimensions?
 
-- **Entregable 1**: Modelo conceptual SROI-LUMIO (Índice de Retorno Social de Inversión) — Documento técnico know-how
-- Próximos entregables: (en desarrollo)
-
----
-
-## ✨ Componentes Principales de LUMIO (Entregable 1)
-
-- Perspectiva Integral (PS) con métricas sociales, ambientales e infraestructura
-- Ajustes causales (Deadweight, Attribution, Displacement, Drop-off)
-- Factor de Colaboración con Socios (FC)
-- Factor de Fricción Logística (FL)
-- Retorno Monetario (RM)
-- Simulación de Monte Carlo para manejo de incertidumbre
-- Optimización de recursos mediante problema de la mochila (Knapsack)
+The framework was designed to support:
+- portfolio-level ESG analysis,
+- strategic resource allocation,
+- uncertainty-aware decision-making,
+- and defensible impact evaluation under limited or imperfect information.
 
 ---
 
-## 📁 Estructura del Repositorio
+## Strategic Context
 
-- `SROI-LUMIO/` → Documento técnico completo (Know-How.pdf)
-- `README.md` → Este archivo
-- `LICENSE`
+Organizations managing large sustainability portfolios often face:
+- inconsistent project metrics,
+- unequal data quality,
+- long-term vs short-term impact asymmetries,
+- attribution complexity,
+- and limited comparability between initiatives.
 
----
+Traditional evaluation approaches frequently struggle to integrate:
+- operational efficiency,
+- stakeholder participation,
+- financial sustainability,
+- uncertainty,
+- and multidimensional impact into a unified analytical structure.
 
-## 👥 Equipo
-
-- **Maximilien Tragarz Quintana** — Ingeniería Física (IFI)
-- **Agatha Adaluz Liewald Suarez** — Ingeniería Física (IFI)
-- **Karla Yvette Alemán Pastrana** — Inteligencia de Negocios (LIT)
-
-**Institución:** Tecnológico de Monterrey
-
----
-
-## 📄 Licencia
-
-Este proyecto se distribuye bajo **SROI-LUMIO Model License** (uso libre académico y de investigación no comercial). Uso comercial requiere autorización.
+LUMIO proposes a structured quantitative approach for addressing these limitations through integrated modeling and probabilistic analysis. :contentReference[oaicite:1]{index=1}
 
 ---
 
-## 🔗 Enlaces
+## Core Methodologies
 
-- Documento Técnico: [Know-How.pdf](./SROI-LUMIO/Know-How.pdf)
-- Repositorio: https://github.com/BladedGoose13/TCC-Challenge---Lumio
+### Quantitative Modeling
+- Multi-criteria impact scoring
+- Weighted portfolio evaluation
+- Nonlinear bounded transformations
+- Resource allocation optimization
+
+### Probabilistic & Risk Analysis
+- Monte Carlo simulation
+- Scenario analysis
+- Confidence interval estimation
+- Downside risk estimation
+- Sensitivity analysis
+
+### Decision & Operations Research
+- Knapsack optimization
+- Portfolio prioritization
+- Constraint-aware allocation
+- Comparative scoring systems
+
+### ESG & Sustainability Analytics
+- Social impact indicators
+- Environmental metrics
+- Infrastructure impact assessment
+- Stakeholder-oriented evaluation
 
 ---
 
-**Proyecto desarrollado para el reto "Consult for a Cause" 2026 por Tec Consulting Club y Xignux.**
+## Monte Carlo Simulation
+
+A central component of the framework is the use of **Monte Carlo methods** for uncertainty quantification.
+
+Instead of assuming deterministic outcomes, the model simulates thousands of possible scenarios by introducing variability into:
+- operational costs,
+- participation metrics,
+- environmental outcomes,
+- financial performance,
+- and impact indicators.
+
+This allows the framework to estimate:
+- expected performance,
+- confidence intervals,
+- downside exposure,
+- and probability of underperformance.
+
+The objective is not only to estimate value generation, but to evaluate:
+- robustness,
+- reliability,
+- and risk-adjusted strategic viability.
+
+---
+
+## Optimization Layer
+
+The framework includes portfolio optimization techniques inspired by classical operations research.
+
+Projects can be:
+- ranked,
+- filtered,
+- stress-tested,
+- and prioritized under budget constraints.
+
+Optimization logic includes:
+- discrete allocation models,
+- constrained maximization,
+- and robust allocation strategies based on adverse scenarios rather than optimistic expectations.
+
+---
+
+## Technical Scope
+
+The repository currently includes:
+- conceptual framework documentation,
+- mathematical formulation,
+- methodological assumptions,
+- uncertainty modeling structure,
+- and strategic evaluation logic.
+
+The project is positioned as:
+- an exploratory analytical framework,
+- an educational research initiative,
+- and a proof-of-concept for quantitative ESG evaluation systems.
+
+---
+
+## Repository Structure
+
+```plaintext
+LUMIO/
+│
+├── README.md
+├── Know-How.pdf
+└── LICENSE
