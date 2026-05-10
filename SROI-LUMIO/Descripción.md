@@ -2,7 +2,6 @@
 
 ![License](https://img.shields.io/badge/license-CC_BY--NC--ND_4.0-red)
 ![Status](https://img.shields.io/badge/status-experimental-orange)
-![Version](https://img.shields.io/badge/version-v4.0-blue)
 ![Framework](https://img.shields.io/badge/framework-ESG%20%2F%20SROI-green)
 
 Experimental ESG/SROI decision-support framework integrating causal impact adjustment, uncertainty quantification, and portfolio optimization for internal CSR and sustainability analysis.
