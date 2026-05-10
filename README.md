@@ -41,7 +41,7 @@ Traditional evaluation approaches frequently struggle to integrate:
 - uncertainty,
 - and multidimensional impact into a unified analytical structure.
 
-LUMIO proposes a structured quantitative approach for addressing these limitations through integrated modeling and probabilistic analysis. :contentReference[oaicite:1]{index=1}
+LUMIO proposes a structured quantitative approach for addressing these limitations through integrated modeling and probabilistic analysis. : [Know-How.pdf](./SROI-LUMIO/Know-How.pdf)
 
 ---
 
@@ -95,23 +95,6 @@ The objective is not only to estimate value generation, but to evaluate:
 - robustness,
 - reliability,
 - and risk-adjusted strategic viability.
-
----
-
-## Optimization Layer
-
-The framework includes portfolio optimization techniques inspired by classical operations research.
-
-Projects can be:
-- ranked,
-- filtered,
-- stress-tested,
-- and prioritized under budget constraints.
-
-Optimization logic includes:
-- discrete allocation models,
-- constrained maximization,
-- and robust allocation strategies based on adverse scenarios rather than optimistic expectations.
 
 ---
 
