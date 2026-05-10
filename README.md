@@ -41,7 +41,8 @@ Traditional evaluation approaches frequently struggle to integrate:
 - uncertainty,
 - and multidimensional impact into a unified analytical structure.
 
-LUMIO proposes a structured quantitative approach for addressing these limitations through integrated modeling and probabilistic analysis. : [Know-How.pdf](./SROI-LUMIO/Know-How.pdf)
+LUMIO proposes a structured quantitative approach for addressing these limitations through integrated modeling and probabilistic analysis. : 
+[Know-How.pdf](./SROI-LUMIO/Know-How.pdf)
 
 ---
 
