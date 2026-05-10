@@ -1,4 +1,4 @@
-# LUMIO — Quantitative ESG & Impact Analytics Framework
+# LUMIO: Quantitative ESG & Impact Analytics Framework
 
 ![License](https://img.shields.io/badge/license-CC_BY--NC--ND_4.0-red)
 ![Status](https://img.shields.io/badge/status-experimental-orange)
