@@ -118,8 +118,9 @@ The project is positioned as:
 ## Repository Structure
 
 ```plaintext
-LUMIO/
+LICENSE
+README.md
+SROI-LUMIO/
 │
 ├── README.md
 ├── Know-How.pdf
-└── LICENSE
