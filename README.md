@@ -5,7 +5,7 @@
 ![Focus](https://img.shields.io/badge/focus-ESG%20Analytics-green)
 ![Methods](https://img.shields.io/badge/methods-Monte%20Carlo%20%7C%20Optimization-blue)
 
-**Strategic quantitative framework developed for the "Consult for a Cause 2026" challenge organized by Tec Consulting Club in collaboration with Xignux and Strategy& (PwC Network).** :contentReference[oaicite:0]{index=0}
+**Strategic quantitative framework developed for the "Consult for a Cause 2026" challenge organized by Tec Consulting Club in collaboration with Xignux and Strategy& (PwC Network).** 
 
 ---
 
