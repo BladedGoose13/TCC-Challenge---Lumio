@@ -6,6 +6,3 @@ Experimental ESG/SROI decision-support framework integrating causal impact adjus
 
 ---
 
-## Preview
-
-[![SROI-X Preview](./SROI-LUMIO/Know-How.pdf)](./SROI-LUMIO/Know-How.pdf)
